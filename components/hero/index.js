@@ -14,7 +14,7 @@ const Hero = () => {
             </div>
             <div className="col-12 wow bounceInDown" data-wow-duration="3s">
               <div className="hero-box">
-                <h1>Alex Smith</h1>
+                <h1>Habib ur Rehman</h1>
                 <h2>I am <span className="typed"></span></h2>
                 <a href="#about" className="btn-scroll scrollto" title="Scroll Down"><i className="fas fa-angle-down"></i></a>
               </div>

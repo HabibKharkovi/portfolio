@@ -1,3 +1,6 @@
+const connectEnsureLogin = require('connect-ensure-login')
+const passport = require('passport')
+
 class Pages {
     constructor(express, next) {
       this.express = express
@@ -22,13 +25,20 @@ class Pages {
   
     initDefaults() {
       this.express.get('/', (req, res) => {
+        console.log("special")
+        
         return this.next.render(req, res, `/main`, req.query)
       })
-  
+      
+      this.express.get('/contactsdata', (req, res) => {
+        return this.next.render(req, res, `/contactsdata`, req.query)
+      })
       this.express.get('*', (req, res) => {
         return this.next.render(req, res, `${req.path}`, req.query)
       })
     }
+
+    
   }
   
   module.exports = Pages

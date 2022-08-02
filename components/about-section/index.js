@@ -5,15 +5,17 @@ const AboutSection = () => {
           <div className="section-title wow fadeInDown animated" data-wow-duration="2s">
             <span>About Me</span>
             <h2>About Me</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>I am Habib, Senior Shopify Developer having Top Rated Plus Badge on UpWork!!
+              I have experince of about 5+ years with MERN Stack & Shopify.
+            </p>
           </div>
           <div className="row">
             <div
               className="col-xl-4 col-md-12 d-flex align-items-stretch justify-content-center justify-content-lg-start wow rollIn"
               data-wow-duration="2s">
               <div className="about-img">
-                <div className="image">
-                </div>
+                {/* <div className="image">
+                </div> */}
               </div>
             </div>
             <div className="col-xl-8 col-md-12 d-flex flex-column align-items-stretch">
@@ -21,23 +23,23 @@ const AboutSection = () => {
                 <div className="row wow fadeInLeft animated" data-wow-duration="2s">
                   <div className="col-sm-6">
                     <ul>
-                      <li><i className="fas fa-arrow-right"></i><strong>Name:</strong> <span>Alex Smith</span>
+                      <li><i className="fas fa-arrow-right"></i><strong>Name:</strong> <span>Habib ur Rehman</span>
                       </li>
                       <li><i className="fas fa-arrow-right"></i><strong>Website:</strong>
-                       <a href="#"><span>www.example.com</span></a>
+                       <a href="#"><span>habiburrehman.com</span></a>
                       </li>
-                      <li><i className="fas fa-arrow-right"></i><strong>Phone:</strong> <a href="tel:(+01)123-456-789"><span>(+01)123-456-789</span></a>
+                      <li><i className="fas fa-arrow-right"></i><strong>Phone:</strong> <a href="tel:(+92)310-189-8026"><span>(+01)123-456-789</span></a>
                       </li>
-                      <li><i className="fas fa-arrow-right"></i><strong>City:</strong> <span>New York, USA</span>
+                      <li><i className="fas fa-arrow-right"></i><strong>City:</strong> <span>Skardu, GB</span>
                       </li>
                     </ul>
                   </div>
                   <div className="col-sm-6">
                     <ul>
-                      <li><i className="fas fa-arrow-right"></i><strong>Age:</strong> <span>30</span></li>
+                      <li><i className="fas fa-arrow-right"></i><strong>Age:</strong> <span>26</span></li>
                       <li><i className="fas fa-arrow-right"></i><strong>Degree:</strong> <span>Master</span></li>
                       <li><i className="fas fa-arrow-right"></i><strong>Email:</strong>
-                       <a href="mailto:info@example.com"><span>info@example.com</span></a>
+                       <a href="mailto:info@example.com"><span>habibkharkovi181@gmail.com</span></a>
                       </li>
                       <li><i className="fas fa-arrow-right"></i><strong>Freelance:</strong> <span>Available</span>
                       </li>

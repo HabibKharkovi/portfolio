@@ -6,13 +6,12 @@ const Header = () => {
         <header id="header" className="header-transparent">
             <div className="profile">
                 <div className="img-fluid-wrapper" >
-                    <Image src={me} alt="Habib Kharkovi" className="img-fluid" width="190" height="313" />
                 </div>
-                <h1>Alex Smith</h1>
+                <h1>Habib </h1>
             </div>
             <nav id="navbar" className="navbar">
             <ul>
-                <li><a className="nav-link scrollto active" href="#hero"><i className="fas fa-house-user"></i>Home</a></li>
+                <li><a className="nav-link scrollto active" href="/"><i className="fas fa-house-user"></i>Home</a></li>
                 <li><a className="nav-link scrollto" href="#about"><i className="fas fa-user-alt"></i>About</a></li>
                 {/* <li><a className="nav-link scrollto" href="#services"><i className="fas fa-poll"></i>Services</a></li> */}
                 <li><a className="nav-link scrollto" href="#portfolio"> <i className="fas fa-briefcase"></i>Portfolio</a></li>
