@@ -8,6 +8,7 @@ import PortfolioSection from '../components/protfolio'
 import ContactSection from '../components/contact-section'
 
 export default function Home() {
+
   return (
     <div  className="gaspar" data-magic-cursor="show" data-color="crimson" >
       {/* <Preloader/> */}

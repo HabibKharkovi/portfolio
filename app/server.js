@@ -2,6 +2,7 @@ const express = require('express');
 const next = require('next')
 const NextjsExpressRouter = require("./nextjs_express_router")
 const Middleware = require("./middleware")
+const setUpDB = require('./utils/db')
 
 const httpServer = (express) => {
   return require('http').createServer(express)
@@ -28,6 +29,7 @@ class Server {
   async start() {
     await this.next.prepare()
     await this.middleware.init()
+    setUpDB();
     await this.router.init()
     this.server = httpServer(this.express)
     this.server.listen(process.env.EXPRESS_PORT)

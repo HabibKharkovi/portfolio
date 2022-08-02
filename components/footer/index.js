@@ -2,7 +2,7 @@ const Footer = () => {
     return (
         <footer id="footer">
         <div className="container wow flipInX animated" data-wow-duration="2s">
-          <h3>Alex Smith</h3>
+          <h3>Habib ur Rehman</h3>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi soluta perferendis maiores ullam beatae
             inventore!</p>
           <div className="social-links">
