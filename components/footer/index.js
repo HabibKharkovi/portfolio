@@ -3,8 +3,7 @@ const Footer = () => {
         <footer id="footer">
         <div className="container wow flipInX animated" data-wow-duration="2s">
           <h3>Habib ur Rehman</h3>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi soluta perferendis maiores ullam beatae
-            inventore!</p>
+          
           <div className="social-links">
             <a className="twitter"><i className="fab fa-twitter"></i></a>
             <a className="facebook"><i className="fab fa-facebook-f"></i></a>

@@ -8,18 +8,21 @@ const Header = () => {
                 <div className="img-fluid-wrapper" >
                 </div>
                 <h1>Habib </h1>
+                <h6><em>Welcome!</em></h6>
+                <p><em>I'm Habib Ur Rehman, a Shopify and MERN developer with a solid international clientele. With no computer, I started learning programming on my own. I'm now an expert at mending thanks to my constant drive and curiosity.</em></p>
             </div>
+{/*             
             <nav id="navbar" className="navbar">
             <ul>
                 <li><a className="nav-link scrollto active" href="/"><i className="fas fa-house-user"></i>Home</a></li>
                 <li><a className="nav-link scrollto" href="#about"><i className="fas fa-user-alt"></i>About</a></li>
-                {/* <li><a className="nav-link scrollto" href="#services"><i className="fas fa-poll"></i>Services</a></li> */}
+                <li><a className="nav-link scrollto" href="#services"><i className="fas fa-poll"></i>Services</a></li>
                 <li><a className="nav-link scrollto" href="#portfolio"> <i className="fas fa-briefcase"></i>Portfolio</a></li>
-                {/* <li><a className="nav-link scrollto" href="#blog"><i className="fas fa-file"></i>Blog</a></li> */}
+                <li><a className="nav-link scrollto" href="#blog"><i className="fas fa-file"></i>Blog</a></li>
                 <li><a className="nav-link scrollto" href="#contact"><i className="fas fa-envelope"></i>Contact</a></li>
             </ul>
             <i className="fas fa-bars mobile-nav-toggle"></i>
-            </nav>
+            </nav> */}
             <div className="social-links">
             <a className="twitter"><i className="fab fa-twitter"></i></a>
             <a className="facebook"><i className="fab fa-facebook-f"></i></a>
