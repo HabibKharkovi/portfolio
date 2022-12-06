@@ -28,7 +28,7 @@ const AboutSection = () => {
                       <li><i className="fas fa-arrow-right"></i><strong>Website:</strong>
                        <a href="#"><span>habiburrehman.com</span></a>
                       </li>
-                      <li><i className="fas fa-arrow-right"></i><strong>Phone:</strong> <a href="tel:(+92)310-189-8026"><span>(+01)123-456-789</span></a>
+                      <li><i className="fas fa-arrow-right"></i><strong>Phone:</strong> <a href="tel:(+92)310-189-8026"><span>+92310189026</span></a>
                       </li>
                       <li><i className="fas fa-arrow-right"></i><strong>City:</strong> <span>Skardu, GB</span>
                       </li>
@@ -37,7 +37,7 @@ const AboutSection = () => {
                   <div className="col-sm-6">
                     <ul>
                       <li><i className="fas fa-arrow-right"></i><strong>Age:</strong> <span>26</span></li>
-                      <li><i className="fas fa-arrow-right"></i><strong>Degree:</strong> <span>Master</span></li>
+                      <li><i className="fas fa-arrow-right"></i><strong>Degree:</strong> <span>Masters</span></li>
                       <li><i className="fas fa-arrow-right"></i><strong>Email:</strong>
                        <a href="mailto:info@example.com"><span>habibkharkovi181@gmail.com</span></a>
                       </li>
@@ -52,7 +52,7 @@ const AboutSection = () => {
                       <i className="fas fa-smile" ></i>
                       <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1"
                         className="purecounter"></span>
-                      <p><strong>Happy Clients</strong> Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                      <p><strong>Happy Clients</strong> I've over more than 10 happy regular clients.
                       </p>
                     </div>
                   </div>
@@ -62,8 +62,7 @@ const AboutSection = () => {
                       <i className="fas fa-folder-open" ></i>
                       <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1"
                         className="purecounter"></span>
-                      <p><strong>Projects</strong> Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        tan
+                      <p><strong>Projects</strong> Completed almost 80+ projects so far.
                       </p>
                     </div>
                   </div>
@@ -73,7 +72,7 @@ const AboutSection = () => {
                       <i className="fas fa-clock"></i>
                       <span data-purecounter-start="0" data-purecounter-end="18" data-purecounter-duration="1"
                         className="purecounter"></span>
-                      <p><strong>Years of experience</strong> Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                      <p><strong>Years of experience</strong> It has been good 5+ years since i am giving services to the clients.
                       </p>
                     </div>
                   </div> 
@@ -83,7 +82,7 @@ const AboutSection = () => {
                       <i className="fas fa-award" ></i>
                       <span data-purecounter-start="0" data-purecounter-end="16" data-purecounter-duration="1"
                         className="purecounter"></span>
-                      <p><strong>Awards</strong> Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                      <p><strong>Awards</strong> I was one of the toper of our Batch during my Web Development Studies.
                       </p>
                     </div>
                   </div>
@@ -150,69 +149,65 @@ const AboutSection = () => {
             <div className="section-title wow fadeInDown animated" data-wow-duration="2s">
               <span>My Resume</span>
               <h2>My Resume</h2>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Dynamic and creative software developer with over 5 years of experience in producing robust code for high-volume companies. Eager to support the dev team at Black & Black Creativity, with top-notch coding skills. In previous roles, doubled code-efficiency of Iplex Pakistan, and increased customer retention by 30% among others.
+</p>
             </div>
             <div className="row">
               <div className="col-lg-6 wow bounceInLeft animated" data-wow-duration="2s">
-                <h3 className="resume-title">Sumary</h3>
+                <h3 className="resume-title">INTRODUCTION</h3>
                 <div className="resume-item pb-0">
-                  <h4>Alice Barkley</h4>
-                  <p><em>Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and
-                      developing user-centered digital/print marketing material from initial concept to final, polished
-                      deliverable.</em></p>
-                    <ul>
-                      <li>Portland par 127,Orlando, FL</li>
-                      <li>(123) 456-7891</li>
-                      <li>info@example.com</li>
-                    </ul>
+                  <h4>EXECUTIVE SUMMARY</h4>
+                  <p><em>I’m a Front End, MERN, Shopify Developer and a full time freelancer. I’m a Top Rated Plus Web Developer on Upwork, I’ve completed more than 80 jobs till know
+                <br />
+                have 4+ years of experience in shopify and 5+ years of experience in Front-End development having worked on JavaScript,React, Shopify, Liquid Template, Email Template, Node Js, jQuery, MongoDB, Bootstrap SASS/SCSS, LESS, Web pack, Gulp, CSS3, HTML5, GSAP, Animation, Speed optimization skills.
+
+</em></p>
                   </div>
                 <h3 className="resume-title">Education</h3>
                 <div className="resume-item">
-                  <h4>Master of Fine Arts &amp; Graphic Design</h4>
-                  <h5>2015 - 2016</h5>
-                  <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-                  <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum
-                    qui
-                    ut dignissimos deleniti nerada porti sand markend</p>
+                  <h4>INTERMEDIATE IN COMPUTER </h4>
+                  <p><em>Public School And College Skardu</em></p>
+                  <p>Vice President of Public School And College debate society</p>
+                  <h5>2013 - 2014</h5>
                 </div>
                 <div className="resume-item">
-                  <h4>Bachelor of Fine Arts &amp; Graphic Design</h4>
-                  <h5>2010 - 2014</h5>
-                  <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-                  <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel ratione
-                    eius
-                    unde vitae rerum voluptates asperiores voluptatem Earum molestiae consequatur neque etlon sader mart
-                    dila</p>
+                  <h4>Professional Certificate</h4>
+                  <p><em>Virtual University</em></p>
+                  <p>Professional Certificate || Certificate in web Development 2-years Aassociated degree in Web Development and web Application</p>
+                  <h5>FALL 2016</h5>
                 </div>
               </div>
               <div className="col-lg-6 wow fadeInLeft animated" data-wow-duration="2s">
-                <h3 className="resume-title">Professional Experience</h3>
+                <h3 className="resume-title">RELEVANT Experience</h3>
                 <div className="resume-item">
-                  <h4>Senior graphic design specialist</h4>
-                  <h5>2019 - Present</h5>
-                  <p><em>Experion, New York, NY </em></p>
-                    <ul>
-                      <li>Lead in the design, development, and implementation of the graphic, layout, and production
-                        communication materials</li>
-                      <li>Delegate tasks to the 7 members of the design team and provide counsel on all aspects of the
-                        project. </li>
-                      <li>Supervise the assessment of all graphic materials in order to ensure quality and accuracy of
-                        the
-                        design</li>
-                      <li>Oversee the efficient use of production project budgets ranging from $2,000 - $25,000</li>
-                    </ul>
+                  <h4>EXECUTIVE SUMMARY</h4>
+                  <h6><em>IT Tech as a Front End Developer </em></h6>
+                  <p><em>December 2016 - November 2017</em></p>
+
+                  <h6><em>Iplex Pakistan as a Front End Developer </em></h6>
+                  <p><em>January 2018 - March 2021</em></p>
+
+                  <h6><em>Black and Black Creative as a Shopify Plus Developer </em></h6>
+                  <p><em>March 20224 - ongoing</em></p>
+
+                  <h6><em>Upwork Top Rated Plus Seller </em></h6>
+                  <p><em>August 2021 - ongoing</em></p>
+                    
                 </div>
                 <div className="resume-item">
-                  <h4>Graphic design specialist</h4>
-                  <h5>2017 - 2018</h5>
-                  <p><em>Stepping Stone Advertising, New York, NY</em></p>
-                    <ul>
-                      <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and
-                        advertisements).</li>
-                      <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
-                      <li>Recommended and consulted with clients on the most appropriate graphic design</li>
-                      <li>Created 4+ design presentations and proposals a month for clients and account managers</li>
-                    </ul>
+                <h3 className="resume-title">RELEVANT SKILLS</h3>
+                <h4>COMPUTER LANGUAGES</h4>
+                  <h6><em>Frontend</em></h6>
+                   <p><em>HTML5 || CSS3 || JavaScript || jQuery || SASS || Bootstrap || JS/CSS Animation (5+ years) Shopify || Shopify plus || Liquid Template || React || Redux || React Router DOM || Material UI || GSAP (4 years)</em></p>
+                  
+                  <h6><em>Backend</em></h6>
+                  <p><em>Node Js || Express. Js || Rest API || MongoDB (3 years)</em></p>
+
+                  <h6><em>Version Control</em></h6>
+                  <p><em>GitHib || Bit Bucket || Gitlab</em></p>
+
+                  <h6><em>Project Management Tools</em></h6>
+                  <p><em>JIRA || Asana || Trello || Team || Monday.com</em></p>
                 </div>
               </div>
             </div>

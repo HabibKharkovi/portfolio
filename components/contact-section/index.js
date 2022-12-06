@@ -36,7 +36,7 @@ const ContactSection = () => {
           <div className="section-title wow fadeInDownBig animated" data-wow-duration="2s">
             <span>Contact Me</span>
             <h2>Contact Me</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p><em>Making your success online</em>.</p>
           </div>
           <div className="row">
             <div className="col-lg-6">
@@ -58,14 +58,14 @@ const ContactSection = () => {
                   <div className="info-box">
                     <i className="fas fa-envelope"></i>
                     <h3>Email Me</h3>
-                    <p>contact@example.com</p>
+                    <p>habibkharkovi181@gmail.com</p>
                   </div>
                 </div>
                 <div className="col-md-6 wow bounceInRight animated" data-wow-duration="2s">
                   <div className="info-box">
                     <i className="fas fa-phone-alt"></i>
                     <h3>Call Me</h3>
-                    <p>+123456789</p>
+                    <p>+923101898026</p>
                   </div>
                 </div>
               </div>
